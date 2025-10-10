@@ -1,5 +1,4 @@
 #include "binpackingFuncs.h"
-#include <iostream>
 using namespace std;
 
 void readInput(vector<int>& items, int& capacity) {
@@ -17,30 +16,34 @@ void printItems(const vector<int>& items) {
     cout << "\n";
 }
 
-void simplePack(const vector<int>& items, int capacity) {
-    vector<int> space;
-    vector<vector<int>> bins;
+vector<Container> firstFitPack(const vector<int>& items, int capacity) {
+    vector<Container> bins;
 
     for (int w : items) {
         bool placed = false;
-        for (size_t i = 0; i < space.size(); ++i) {
-            if (w <= space[i]) {
-                space[i] -= w;
-                bins[i].push_back(w);
+        for (auto& bin : bins) {
+            if (w <= bin.remaining) {
+                bin.remaining -= w;
+                bin.items.push_back(w);
                 placed = true;
                 break;
             }
         }
         if (!placed) {
-            space.push_back(capacity - w);
-            bins.push_back({ w });
+            Container c;
+            c.remaining = capacity - w;
+            c.items.push_back(w);
+            bins.push_back(c);
         }
     }
+    return bins;
+}
 
+void printResult(const vector<Container>& bins) {
     cout << "\nРезультат упаковки:\n";
     for (size_t i = 0; i < bins.size(); ++i) {
-        cout << "Контейнер " << i + 1 << " (осталось " << space[i] << "): ";
-        for (int w : bins[i]) cout << w << " ";
+        cout << "Контейнер " << i + 1 << " (осталось " << bins[i].remaining << "): ";
+        for (int w : bins[i].items) cout << w << " ";
         cout << "\n";
     }
     cout << "Всего контейнеров: " << bins.size() << "\n";

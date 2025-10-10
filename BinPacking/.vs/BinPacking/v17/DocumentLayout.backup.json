@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00E51B74-DEF3-6319-6018-705A1DE90D75}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_4804fdd6\\SingleFileISense\\_sfi_d0286854-b4dd-4aa6-881a-a0c0e78c94d1_.vcxproj|C:\\USERS\\MARKL\\ONEDRIVE\\DESKTOP\\PI\\BIN_PACKING\\BINPACKING\\BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00E51B74-DEF3-6319-6018-705A1DE90D75}|..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\VisualStudio\\17.0_4804fdd6\\SingleFileISense\\_sfi_d0286854-b4dd-4aa6-881a-a0c0e78c94d1_.vcxproj|solutionrelative:BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "binpackingFuncs.h",
-              "DocumentMoniker": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
               "RelativeDocumentMoniker": "BinPacking\\binpackingFuncs.h",
-              "ToolTip": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
               "RelativeToolTip": "BinPacking\\binpackingFuncs.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-10-10T18:16:49.541Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "binpackingFuncs.cpp",
-              "DocumentMoniker": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
               "RelativeDocumentMoniker": "BinPacking\\binpackingFuncs.cpp",
-              "ToolTip": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
               "RelativeToolTip": "BinPacking\\binpackingFuncs.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-10T18:16:48.219Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
               "RelativeDocumentMoniker": "BinPacking\\main.cpp",
-              "ToolTip": "C:\\Users\\markl\\OneDrive\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
               "RelativeToolTip": "BinPacking\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-10T18:16:44.861Z",
               "EditorCaption": ""

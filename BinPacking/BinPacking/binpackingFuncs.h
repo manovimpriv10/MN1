@@ -1,11 +1,14 @@
 #pragma once
 
 #include <vector>
+#include <iostream>
 
-using namespace std;
+struct Container {
+    int remaining;
+    std::vector<int> items;
+};
 
-void readInput(vector<int>& items, int& capacity);
-
-void printItems(const vector<int>& items);
-
-void simplePack(const vector<int>&, int);
+void readInput(std::vector<int>& items, int& capacity);
+void printItems(const std::vector<int>& items);
+std::vector<Container> firstFitPack(const std::vector<int>& items, int capacity);
+void printResult(const std::vector<Container>& bins);

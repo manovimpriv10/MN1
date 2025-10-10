@@ -1,14 +1,16 @@
 #include "binpackingFuncs.h"
-#include <iostream>
+using namespace std;
 
 int main() {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL,"Russian");
     vector<int> items;
-    int capacity = 0;
+    int capacity;
 
     readInput(items, capacity);
     printItems(items);
-    simplePack(items, capacity);
+
+    auto bins = firstFitPack(items, capacity);
+    printResult(bins);
 
     return 0;
 }
