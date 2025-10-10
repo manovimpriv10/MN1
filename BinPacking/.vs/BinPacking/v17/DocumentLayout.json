@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\",
+  "WorkspaceRootPath": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BinPacking\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BinPacking\\binpackingFuncs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{012B7090-7172-4F00-B667-26B9AF981174}|BinPacking\\BinPacking.vcxproj|solutionrelative:BINPACKING\\BINPACKINGFUNCS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "binpackingFuncs.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
+              "DocumentMoniker": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
               "RelativeDocumentMoniker": "BinPacking\\binpackingFuncs.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
+              "ToolTip": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.h",
               "RelativeToolTip": "BinPacking\\binpackingFuncs.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-10-10T18:16:49.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:16:49.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "binpackingFuncs.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
+              "DocumentMoniker": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
               "RelativeDocumentMoniker": "BinPacking\\binpackingFuncs.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
+              "ToolTip": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\binpackingFuncs.cpp",
               "RelativeToolTip": "BinPacking\\binpackingFuncs.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-10T18:16:48.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T18:16:48.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
               "RelativeDocumentMoniker": "BinPacking\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\PI\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
+              "ToolTip": "C:\\Users\\nikit\\Desktop\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430 (2)\\bin_packing\\BinPacking\\BinPacking\\main.cpp",
               "RelativeToolTip": "BinPacking\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-10T18:16:44.861Z",
               "EditorCaption": ""
